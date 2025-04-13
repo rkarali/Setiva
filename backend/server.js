@@ -27,3 +27,5 @@ app.get('/api/getAll' ,async (req, res) => {
 app.listen(port, () => {
   console.log(`Sunucu çalışıyor: http://localhost:${port}`);
 });
+
+//test
